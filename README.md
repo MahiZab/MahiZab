@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MahiZab
-- 👀 I’m interested in ML
+- 👋 Hi, I’m  @MahiZab
+- 👀 I’m interested in ML.
 - 📫 Reach me at: MahiiZabb@gmail.com
 
 <!---
